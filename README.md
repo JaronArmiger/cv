@@ -1,1 +1,0 @@
-CV app for odin project
