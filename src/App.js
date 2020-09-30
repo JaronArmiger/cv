@@ -1,15 +1,11 @@
 import React, { Component } from 'react';
+import Full from './components/Full';
 
 class App extends Component {
-  constructor() {
-  	super();
-  }
 
   render() {
   	return (
-      <div>
-      	<h1>App</h1>
-      </div>
+      <Full/>
   	);
   }
 }
